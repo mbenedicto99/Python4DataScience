@@ -30,9 +30,9 @@ Este documento inclui:
 
 ## Detalhamento da Integração
 
-### 1. Interação Técnico ↔️ JiraAgent
+### 1. Interação SRE ↔️ JiraAgent
 
-- O técnico executa comandos ou faz perguntas ao JiraAgent, por exemplo:
+- O SRE executa comandos ou faz perguntas ao JiraAgent, por exemplo:
   - "Liste as últimas mudanças com falha"
   - "Sugira troubleshooting para erro de deploy"
 
